@@ -1,0 +1,6 @@
+pyspark
+pandas
+scikit-learn
+dash
+plotly
+firebase-admin
