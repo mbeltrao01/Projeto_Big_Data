@@ -1,6 +1,8 @@
-pyspark
+prophet
 pandas
-scikit-learn
-dash
-plotly
-firebase-admin
+dash-bootstrap-components
+matplotlib
+requests
+dash>=3.0.0
+plotly>=6.0.0
+flask
